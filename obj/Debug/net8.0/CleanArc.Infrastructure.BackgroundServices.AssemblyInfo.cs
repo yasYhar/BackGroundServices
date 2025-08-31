@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArc.Infrastructure.BackgroundServices")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c53954887864313d6fc2ba8ae59ce3ed0ea909b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d833ed2270772209714ea6f51e3d9892855e329e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArc.Infrastructure.BackgroundServices")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArc.Infrastructure.BackgroundServices")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

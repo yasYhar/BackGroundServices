@@ -1037,6 +1037,22 @@
           "lib/netstandard2.0/Pluralize.NET.dll": {}
         }
       },
+      "SixLabors.ImageSharp/3.1.10": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/SixLabors.ImageSharp.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/SixLabors.ImageSharp.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/_._": {}
+        }
+      },
       "StackExchange.Redis/2.8.16": {
         "type": "package",
         "dependencies": {
@@ -1547,6 +1563,7 @@
           "Magick.NET-Q16-AnyCPU": "14.6.0",
           "Magick.NET.Core": "14.6.0",
           "Mediator.Abstractions": "2.1.7",
+          "SixLabors.ImageSharp": "3.1.10",
           "System.Linq.Async": "6.0.1"
         },
         "compile": {
@@ -3090,6 +3107,22 @@
         "pluralize.net.nuspec"
       ]
     },
+    "SixLabors.ImageSharp/3.1.10": {
+      "sha512": "R1HEPcqx3v+kvlOTPouP0g/Nzzud9pHtjlgGbFax3Ivaz8kkaGfS2EPfyDGpmfoTUQ3nQ5wxdhYyYa9fwYA9cw==",
+      "type": "package",
+      "path": "sixlabors.imagesharp/3.1.10",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "build/SixLabors.ImageSharp.props",
+        "lib/net6.0/SixLabors.ImageSharp.dll",
+        "lib/net6.0/SixLabors.ImageSharp.xml",
+        "sixlabors.imagesharp.128.png",
+        "sixlabors.imagesharp.3.1.10.nupkg.sha512",
+        "sixlabors.imagesharp.nuspec"
+      ]
+    },
     "StackExchange.Redis/2.8.16": {
       "sha512": "WaoulkOqOC9jHepca3JZKFTqndCWab5uYS7qCzmiQDlrTkFaDN7eLSlEfHycBxipRnQY9ppZM7QSsWAwUEGblw==",
       "type": "package",
@@ -4136,7 +4169,7 @@
       "projectName": "CleanArc.Infrastructure.BackgroundServices",
       "projectPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\CleanArc.Infrastructure.BackgroundService\\CleanArc.Infrastructure.BackgroundServices.csproj",
       "packagesPath": "C:\\Users\\y.faramarzi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\CleanArc.Infrastructure.BackgroundService\\obj\\",
+      "outputPath": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\CleanArc.Infrastructure.BackgroundService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

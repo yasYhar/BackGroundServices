@@ -11,7 +11,7 @@
         "projectName": "CleanArc.Infrastructure.BackgroundServices",
         "projectPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\CleanArc.Infrastructure.BackgroundService\\CleanArc.Infrastructure.BackgroundServices.csproj",
         "packagesPath": "C:\\Users\\y.faramarzi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\CleanArc.Infrastructure.BackgroundService\\obj\\",
+        "outputPath": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\CleanArc.Infrastructure.BackgroundService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -79,12 +79,12 @@
         }
       }
     },
-    "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\CleanArc.Web.MinIo\\CleanArc.Web.MinIo.csproj": {
+    "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\CleanArc.Web.MinIo\\CleanArc.Web.MinIo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\CleanArc.Web.MinIo\\CleanArc.Web.MinIo.csproj",
+        "projectUniqueName": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\CleanArc.Web.MinIo\\CleanArc.Web.MinIo.csproj",
         "projectName": "CleanArc.Web.MinIo",
-        "projectPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\CleanArc.Web.MinIo\\CleanArc.Web.MinIo.csproj",
+        "projectPath": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\CleanArc.Web.MinIo\\CleanArc.Web.MinIo.csproj",
         "packagesPath": "C:\\Users\\y.faramarzi\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\CleanArc.Web.MinIo\\obj\\",
         "projectStyle": "PackageReference",
@@ -162,14 +162,14 @@
         }
       }
     },
-    "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\CleanArc.Web.RedisCache\\CleanArc.Web.RedisCache.csproj": {
+    "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\CleanArc.Web.RedisCache\\CleanArc.Web.RedisCache.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\CleanArc.Web.RedisCache\\CleanArc.Web.RedisCache.csproj",
+        "projectUniqueName": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\CleanArc.Web.RedisCache\\CleanArc.Web.RedisCache.csproj",
         "projectName": "CleanArc.Web.RedisCache",
-        "projectPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\CleanArc.Web.RedisCache\\CleanArc.Web.RedisCache.csproj",
+        "projectPath": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\CleanArc.Web.RedisCache\\CleanArc.Web.RedisCache.csproj",
         "packagesPath": "C:\\Users\\y.faramarzi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\CleanArc.Web.RedisCache\\obj\\",
+        "outputPath": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\CleanArc.Web.RedisCache\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -190,11 +190,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Core\\CleanArc.Application\\CleanArc.Application.csproj": {
-                "projectPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Core\\CleanArc.Application\\CleanArc.Application.csproj"
+              "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Core\\CleanArc.Application\\CleanArc.Application.csproj": {
+                "projectPath": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Core\\CleanArc.Application\\CleanArc.Application.csproj"
               },
-              "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Core\\CleanArc.Domain\\CleanArc.Domain.csproj": {
-                "projectPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Core\\CleanArc.Domain\\CleanArc.Domain.csproj"
+              "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Core\\CleanArc.Domain\\CleanArc.Domain.csproj": {
+                "projectPath": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Core\\CleanArc.Domain\\CleanArc.Domain.csproj"
               }
             }
           }
@@ -248,14 +248,14 @@
         }
       }
     },
-    "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Core\\CleanArc.Application\\CleanArc.Application.csproj": {
+    "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Core\\CleanArc.Application\\CleanArc.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Core\\CleanArc.Application\\CleanArc.Application.csproj",
+        "projectUniqueName": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Core\\CleanArc.Application\\CleanArc.Application.csproj",
         "projectName": "CleanArc.Application",
-        "projectPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Core\\CleanArc.Application\\CleanArc.Application.csproj",
+        "projectPath": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Core\\CleanArc.Application\\CleanArc.Application.csproj",
         "packagesPath": "C:\\Users\\y.faramarzi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Core\\CleanArc.Application\\obj\\",
+        "outputPath": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Core\\CleanArc.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -276,14 +276,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\CleanArc.Web.MinIo\\CleanArc.Web.MinIo.csproj": {
-                "projectPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\CleanArc.Web.MinIo\\CleanArc.Web.MinIo.csproj"
+              "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\CleanArc.Web.MinIo\\CleanArc.Web.MinIo.csproj": {
+                "projectPath": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\CleanArc.Web.MinIo\\CleanArc.Web.MinIo.csproj"
               },
-              "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Core\\CleanArc.Domain\\CleanArc.Domain.csproj": {
-                "projectPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Core\\CleanArc.Domain\\CleanArc.Domain.csproj"
+              "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Core\\CleanArc.Domain\\CleanArc.Domain.csproj": {
+                "projectPath": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Core\\CleanArc.Domain\\CleanArc.Domain.csproj"
               },
-              "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Shared\\CleanArc.SharedKernel\\CleanArc.SharedKernel.csproj": {
-                "projectPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Shared\\CleanArc.SharedKernel\\CleanArc.SharedKernel.csproj"
+              "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Shared\\CleanArc.SharedKernel\\CleanArc.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Shared\\CleanArc.SharedKernel\\CleanArc.SharedKernel.csproj"
               }
             }
           }
@@ -322,6 +322,10 @@
               "target": "Package",
               "version": "[2.1.7, )"
             },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
             "System.Linq.Async": {
               "target": "Package",
               "version": "[6.0.1, )"
@@ -347,14 +351,14 @@
         }
       }
     },
-    "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Core\\CleanArc.Domain\\CleanArc.Domain.csproj": {
+    "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Core\\CleanArc.Domain\\CleanArc.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Core\\CleanArc.Domain\\CleanArc.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Core\\CleanArc.Domain\\CleanArc.Domain.csproj",
         "projectName": "CleanArc.Domain",
-        "projectPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Core\\CleanArc.Domain\\CleanArc.Domain.csproj",
+        "projectPath": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Core\\CleanArc.Domain\\CleanArc.Domain.csproj",
         "packagesPath": "C:\\Users\\y.faramarzi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Core\\CleanArc.Domain\\obj\\",
+        "outputPath": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Core\\CleanArc.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -375,11 +379,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\CleanArc.Web.MinIo\\CleanArc.Web.MinIo.csproj": {
-                "projectPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\CleanArc.Web.MinIo\\CleanArc.Web.MinIo.csproj"
+              "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\CleanArc.Web.MinIo\\CleanArc.Web.MinIo.csproj": {
+                "projectPath": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\CleanArc.Web.MinIo\\CleanArc.Web.MinIo.csproj"
               },
-              "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Shared\\CleanArc.SharedKernel\\CleanArc.SharedKernel.csproj": {
-                "projectPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Shared\\CleanArc.SharedKernel\\CleanArc.SharedKernel.csproj"
+              "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Shared\\CleanArc.SharedKernel\\CleanArc.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Shared\\CleanArc.SharedKernel\\CleanArc.SharedKernel.csproj"
               }
             }
           }
@@ -429,14 +433,14 @@
         }
       }
     },
-    "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Infrastructure\\CleanArc.Infrastructure.Persistence\\CleanArc.Infrastructure.Persistence.csproj": {
+    "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Infrastructure\\CleanArc.Infrastructure.Persistence\\CleanArc.Infrastructure.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Infrastructure\\CleanArc.Infrastructure.Persistence\\CleanArc.Infrastructure.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Infrastructure\\CleanArc.Infrastructure.Persistence\\CleanArc.Infrastructure.Persistence.csproj",
         "projectName": "CleanArc.Infrastructure.Persistence",
-        "projectPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Infrastructure\\CleanArc.Infrastructure.Persistence\\CleanArc.Infrastructure.Persistence.csproj",
+        "projectPath": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Infrastructure\\CleanArc.Infrastructure.Persistence\\CleanArc.Infrastructure.Persistence.csproj",
         "packagesPath": "C:\\Users\\y.faramarzi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Infrastructure\\CleanArc.Infrastructure.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Infrastructure\\CleanArc.Infrastructure.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -457,11 +461,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\CleanArc.Web.RedisCache\\CleanArc.Web.RedisCache.csproj": {
-                "projectPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\CleanArc.Web.RedisCache\\CleanArc.Web.RedisCache.csproj"
+              "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\CleanArc.Web.RedisCache\\CleanArc.Web.RedisCache.csproj": {
+                "projectPath": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\CleanArc.Web.RedisCache\\CleanArc.Web.RedisCache.csproj"
               },
-              "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Core\\CleanArc.Domain\\CleanArc.Domain.csproj": {
-                "projectPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Core\\CleanArc.Domain\\CleanArc.Domain.csproj"
+              "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Core\\CleanArc.Domain\\CleanArc.Domain.csproj": {
+                "projectPath": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Core\\CleanArc.Domain\\CleanArc.Domain.csproj"
               }
             }
           }
@@ -525,12 +529,12 @@
         }
       }
     },
-    "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Shared\\CleanArc.SharedKernel\\CleanArc.SharedKernel.csproj": {
+    "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Shared\\CleanArc.SharedKernel\\CleanArc.SharedKernel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Shared\\CleanArc.SharedKernel\\CleanArc.SharedKernel.csproj",
+        "projectUniqueName": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Shared\\CleanArc.SharedKernel\\CleanArc.SharedKernel.csproj",
         "projectName": "CleanArc.SharedKernel",
-        "projectPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Shared\\CleanArc.SharedKernel\\CleanArc.SharedKernel.csproj",
+        "projectPath": "C:\\Users\\y.faramarzi\\Source\\Repos\\newdelta\\src\\Shared\\CleanArc.SharedKernel\\CleanArc.SharedKernel.csproj",
         "packagesPath": "C:\\Users\\y.faramarzi\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\y.faramarzi\\source\\repos\\newdelta\\src\\Shared\\CleanArc.SharedKernel\\obj\\",
         "projectStyle": "PackageReference",
